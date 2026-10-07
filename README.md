@@ -9,6 +9,7 @@ Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
 
 ## Architecture
 Aplikasi ini menggunakan arsitektur MVVM (Model-View-ViewModel) dan menggunakan `StateFlow` untuk state management (State-driven UI).
+```text
 app/src/main/java/com/example/openlibraryapp/
 ├── data/
 │   ├── model/
@@ -32,6 +33,8 @@ app/src/main/java/com/example/openlibraryapp/
 │       ├── BookViewModel.kt        ← ViewModel (logika bisnis)
 │       └── UiState.kt              ← Sealed class state
 └── MainActivity.kt                 ← Entry point
+```
+
 
 ## API
 Menggunakan OpenLibrary Search API:
