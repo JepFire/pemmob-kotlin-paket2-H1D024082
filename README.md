@@ -1,5 +1,8 @@
 # OpenLibrary App
 
+|# Video Penjelasan
+https://drive.google.com/drive/folders/1nEci6kGjJngn9caJL_lUq3xtZdNt0Teg?usp=sharing
+
 Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
 
 ## Fitur
@@ -59,5 +62,7 @@ Menggunakan OpenLibrary Search API:
 ## Screenshot Aplikasi
 <img width="423" height="890" alt="Screenshot_20261006_234445_OpenLibrary_App" src="https://github.com/user-attachments/assets/9f51fba4-80b2-4558-9acf-146cfeb7069d" />
 <img width="423" height="890" alt="Screenshot_20261006_234600_OpenLibrary_App" src="https://github.com/user-attachments/assets/dd23508b-2942-4d97-b0fe-ae937b0d898a" />
+
+
 
 
