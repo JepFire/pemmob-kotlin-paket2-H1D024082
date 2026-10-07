@@ -1,9 +1,9 @@
 # OpenLibrary App
 
+Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
+
 Video Penjelasan
 (https://youtu.be/7Zs4w6n66HA)
-
-Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
 
 ## Fitur
 - Pencarian buku berdasarkan kata kunci
