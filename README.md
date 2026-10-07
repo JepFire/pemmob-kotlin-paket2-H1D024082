@@ -1,7 +1,7 @@
 # OpenLibrary App
 
 # Video Penjelasan
-[https://drive.google.com/drive/folders/1nEci6kGjJngn9caJL_lUq3xtZdNt0Teg?usp=sharing](https://youtu.be/7Zs4w6n66HA)
+(https://youtu.be/7Zs4w6n66HA)
 
 Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
 
