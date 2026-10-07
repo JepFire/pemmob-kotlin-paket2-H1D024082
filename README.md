@@ -1,6 +1,6 @@
 # OpenLibrary App
 
-# Video Penjelasan
+Video Penjelasan
 (https://youtu.be/7Zs4w6n66HA)
 
 Aplikasi Katalog dan Eksplorasi Buku dari OpenLibrary.
